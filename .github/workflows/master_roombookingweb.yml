@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'RoomBookingWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E4F7201DB74940DBA321ABBDD16D35B1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12FDC0D272D9480FAEBA62887F86B770 }}
           package: .
