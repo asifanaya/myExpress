@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from [:searchable_dropdown] C:\Users\innodasi\Documents\meeting_room_booking\build\searchable_dropdown\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator_android] C:\Users\innodasi\Documents\meeting_room_booking\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:fluttertoast] C:\Users\innodasi\Documents\meeting_room_booking\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] C:\Users\innodasi\Documents\meeting_room_booking\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:get_mac] C:\Users\innodasi\Documents\meeting_room_booking\build\get_mac\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] C:\Users\innodasi\Documents\meeting_room_booking\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\de762bca8e9fccf1fda76e3da57b863f\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\9465ae42c6551eb05db1fef9e2ecd678\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\3eec2335dd907c2a32a1640f37dec3f9\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\99286185c520f031591f971a84864ed6\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\5b4285f227e792c3b815de59b9155b12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\aa459174880bb16a638c7ef46b711a82\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\79b1efe687a62f65eb6cb28b0114c285\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\c8aa9d55a0ec4cdd251b179dc91d7743\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\cfc16715c46f1f3a536c21056fea10fa\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\4105e06aa1fd0055b823208e55f876e1\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\82c4d0d5e1c1cedaecf51d73c936c207\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\bf13bcdc68c529393ade5236ab0603f6\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\754869435b60c20a1d06698b5bf64c15\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\62a43b2e219f976011b23fa7ad31e4c0\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\141f3f1da3022e2ecc83609c80f420b4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\7ad0a3ea646f31bebc35514f4c04bf17\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\62934d2502871886e38c8abdda465017\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\0e1be75f21b2371915a30d7dd272c008\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:2:5-44
+		INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:3:5-66
+MERGED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:3:5-66
+MERGED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:6:22-74
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:7:22-82
+application
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:9:5-46:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\de762bca8e9fccf1fda76e3da57b863f\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\de762bca8e9fccf1fda76e3da57b863f\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\9465ae42c6551eb05db1fef9e2ecd678\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\9465ae42c6551eb05db1fef9e2ecd678\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\3eec2335dd907c2a32a1640f37dec3f9\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\3eec2335dd907c2a32a1640f37dec3f9\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\99286185c520f031591f971a84864ed6\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\99286185c520f031591f971a84864ed6\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\5b4285f227e792c3b815de59b9155b12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\5b4285f227e792c3b815de59b9155b12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\82c4d0d5e1c1cedaecf51d73c936c207\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\82c4d0d5e1c1cedaecf51d73c936c207\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\62934d2502871886e38c8abdda465017\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\62934d2502871886e38c8abdda465017\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\82c4d0d5e1c1cedaecf51d73c936c207\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:10:9-45
+	android:icon
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:11:9-43
+activity#com.durr.meeting_room_booking.MainActivity
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:12:9-40:20
+	android:launchMode
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:13:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:23:13-26:17
+	android:resource
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:25:15-52
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:24:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:32:13-35:17
+	android:resource
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:34:15-61
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:33:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:38:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:43:9-45:33
+	android:value
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:45:13-30
+	android:name
+		ADDED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml:44:13-44
+uses-sdk
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml
+MERGED from [:searchable_dropdown] C:\Users\innodasi\Documents\meeting_room_booking\build\searchable_dropdown\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:searchable_dropdown] C:\Users\innodasi\Documents\meeting_room_booking\build\searchable_dropdown\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\innodasi\Documents\meeting_room_booking\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] C:\Users\innodasi\Documents\meeting_room_booking\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\innodasi\Documents\meeting_room_booking\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\innodasi\Documents\meeting_room_booking\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\innodasi\Documents\meeting_room_booking\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\innodasi\Documents\meeting_room_booking\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:get_mac] C:\Users\innodasi\Documents\meeting_room_booking\build\get_mac\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:get_mac] C:\Users\innodasi\Documents\meeting_room_booking\build\get_mac\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\innodasi\Documents\meeting_room_booking\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\innodasi\Documents\meeting_room_booking\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\de762bca8e9fccf1fda76e3da57b863f\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\de762bca8e9fccf1fda76e3da57b863f\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\9465ae42c6551eb05db1fef9e2ecd678\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\9465ae42c6551eb05db1fef9e2ecd678\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\3eec2335dd907c2a32a1640f37dec3f9\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\3eec2335dd907c2a32a1640f37dec3f9\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\99286185c520f031591f971a84864ed6\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\99286185c520f031591f971a84864ed6\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\5b4285f227e792c3b815de59b9155b12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\5b4285f227e792c3b815de59b9155b12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\aa459174880bb16a638c7ef46b711a82\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\aa459174880bb16a638c7ef46b711a82\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\79b1efe687a62f65eb6cb28b0114c285\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\79b1efe687a62f65eb6cb28b0114c285\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\c8aa9d55a0ec4cdd251b179dc91d7743\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\c8aa9d55a0ec4cdd251b179dc91d7743\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\cfc16715c46f1f3a536c21056fea10fa\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\cfc16715c46f1f3a536c21056fea10fa\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\4105e06aa1fd0055b823208e55f876e1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\4105e06aa1fd0055b823208e55f876e1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\82c4d0d5e1c1cedaecf51d73c936c207\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\82c4d0d5e1c1cedaecf51d73c936c207\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\bf13bcdc68c529393ade5236ab0603f6\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\bf13bcdc68c529393ade5236ab0603f6\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\754869435b60c20a1d06698b5bf64c15\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\754869435b60c20a1d06698b5bf64c15\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\62a43b2e219f976011b23fa7ad31e4c0\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\62a43b2e219f976011b23fa7ad31e4c0\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\141f3f1da3022e2ecc83609c80f420b4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\141f3f1da3022e2ecc83609c80f420b4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\7ad0a3ea646f31bebc35514f4c04bf17\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\7ad0a3ea646f31bebc35514f4c04bf17\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\62934d2502871886e38c8abdda465017\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\62934d2502871886e38c8abdda465017\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\0e1be75f21b2371915a30d7dd272c008\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\0e1be75f21b2371915a30d7dd272c008\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\innodasi\Documents\meeting_room_booking\android\app\src\debug\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\9465ae42c6551eb05db1fef9e2ecd678\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\9465ae42c6551eb05db1fef9e2ecd678\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\9465ae42c6551eb05db1fef9e2ecd678\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\9465ae42c6551eb05db1fef9e2ecd678\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\5b4285f227e792c3b815de59b9155b12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\5b4285f227e792c3b815de59b9155b12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\innodasi\.gradle\caches\transforms-2\files-2.1\5b4285f227e792c3b815de59b9155b12\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
