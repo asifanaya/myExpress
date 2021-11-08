@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/durr/meeting_room_booking/BuildConfig.java
- com.durr.meeting_room_booking.BuildConfig
